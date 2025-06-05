@@ -9,6 +9,9 @@ from typing import Dict, List, Optional, Union, Any
 
 # Cargar variables de entorno
 load_dotenv()
+print("[DEBUG] Entorno completo desde Netlify:")
+for key in ["DEEPSEEK_API_KEY", "LAMBDA_URL"]:
+    print(f"{key}: {os.getenv(key)}")
 
 # Verificar si la API key está cargada
 api_key = os.getenv('DEEPSEEK_API_KEY')
