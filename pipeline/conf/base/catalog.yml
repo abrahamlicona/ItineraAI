@@ -1,0 +1,25 @@
+# Here you can define all your datasets by using simple YAML syntax.
+#
+# Documentation for this file format can be found in "The Data Catalog"
+# Link: https://docs.kedro.org/en/stable/data/data_catalog.html
+
+reservations_raw:
+  type: pandas.CSVDataset
+  filepath: data/01_raw/reservations.csv
+
+reservations_clean:
+  type: pandas.ParquetDataset          # o CSVDataset si prefieres
+  filepath: data/03_primary/reservations_clean.parquet
+
+cluster_model:
+  type: pickle.PickleDataset
+  filepath: data/06_models/cluster_model.pkl
+  versioned: true
+
+reservations_clustered:
+  type: pandas.ParquetDataset
+  filepath: data/07_model_output/reservations_clustered.parquet
+
+segment_profile:
+  type: pandas.CSVDataset
+  filepath: data/08_reporting/segment_profile.csv
