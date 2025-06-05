@@ -53,12 +53,15 @@ export default function Home() {
     abortControllerRef.current = new AbortController();
 
     try {
-      const res = await fetch("/api/process", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ userMessage: input }),
-        signal: abortControllerRef.current.signal,
-      });
+      const res = await fetch(
+        `${process.env.NEXT_PUBLIC_API_URL}/api/process`,
+        {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ userMessage: input }),
+          signal: abortControllerRef.current.signal,
+        }
+      );
 
       const data = await res.json();
       if (!res.ok) {
