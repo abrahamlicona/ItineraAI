@@ -13,6 +13,10 @@
 [functions.excluded_files]
   patterns = ["*.config.js", "*.config.ts", "next-env.d.ts"]
 
+[functions.environment]
+  DEEPSEEK_API_KEY = "${DEEPSEEK_API_KEY}"
+  LAMBDA_URL = "${LAMBDA_URL}"
+
 [[plugins]]
   package = "@netlify/plugin-nextjs"
 
