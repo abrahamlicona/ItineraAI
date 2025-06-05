@@ -1,26 +1,27 @@
 [build]
-  command = "pip install --upgrade pip && pip install -r requirements.txt && rm -rf node_modules package-lock.json .next && npm cache clean --force && npm install --force && npm run build"
+  command = "pip install --upgrade pip && pip install -r requirements.txt && rm -rf node_modules .next package-lock.json && npm cache clean --force && npm install --force && npm run build"
   publish = ".next"
+  functions = "netlify/functions"
 
 [build.environment]
-  PYTHON_VERSION = "3.11"
+  PYTHON_VERSION = "3.9"
   NODE_VERSION = "18"
-  PIP_NO_CACHE_DIR = "1"
-  PIP_DISABLE_PIP_VERSION_CHECK = "1"
+
+[functions]
+  directory = "netlify/functions"
+  included_files = ["netlify/functions/**/*"]
+  excluded_files = [
+    "eslint.config.js",
+    "next-env.d.ts",
+    "next.config.js",
+    "postcss.config.js",
+    "tailwind.config.js"
+  ]
 
 [[plugins]]
   package = "@netlify/plugin-nextjs"
 
-[functions]
-  directory = "."
-  node_bundler = "esbuild"
-
-[[redirects]]
-  from = "/api/*"
-  to = "/.netlify/functions/api/:splat"
-  status = 200
-
 [[headers]]
-  for = "/data/*"
+  for = "/*"
   [headers.values]
     Access-Control-Allow-Origin = "*" 
