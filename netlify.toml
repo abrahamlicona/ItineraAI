@@ -15,7 +15,9 @@
   directory = "."
   node_bundler = "esbuild"
   included_files = ["api/**/*"]
-  excluded_files = ["*.config.js", "*.config.ts", "next-env.d.ts", "postcss.config.js"]
+
+[functions.excluded_files]
+  external_node_modules = ["*.config.js", "*.config.ts", "next-env.d.ts", "postcss.config.js"]
 
 [[redirects]]
   from = "/api/*"
