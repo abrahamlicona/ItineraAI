@@ -577,6 +577,11 @@ Usa SOLO los valores exactos proporcionados. NO hagas suposiciones ni interpreta
         print("[DEBUG] Excepción atrapada:", str(e))
         raise HTTPException(status_code=500, detail=str(e))
 
+@app.get("/")
+def root():
+    return {"status": "ok", "message": "FastAPI backend está corriendo correctamente 🚀"}
+
+
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8000) 
