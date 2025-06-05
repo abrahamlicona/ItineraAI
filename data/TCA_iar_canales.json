@@ -1,0 +1,72 @@
+[
+    {
+        "ID_canal": "0",
+        "Canal_cve": "|",
+        "CANAL": "SIN DEFINIR"
+    },
+    {
+        "ID_canal": "1",
+        "Canal_cve": "00    ",
+        "CANAL": "LADA 800 NACIONAL68                               "
+    },
+    {
+        "ID_canal": "2",
+        "Canal_cve": "01    ",
+        "CANAL": "LADA 800 NACIONAL06                               "
+    },
+    {
+        "ID_canal": "3",
+        "Canal_cve": "02    ",
+        "CANAL": "LADA 800 INTERNACIONAL                            "
+    },
+    {
+        "ID_canal": "4",
+        "Canal_cve": "03    ",
+        "CANAL": "DIRECTO                                           "
+    },
+    {
+        "ID_canal": "5",
+        "Canal_cve": "04    ",
+        "CANAL": "CONMUTADOR                                        "
+    },
+    {
+        "ID_canal": "6",
+        "Canal_cve": "05    ",
+        "CANAL": "NINGUNO                                           "
+    },
+    {
+        "ID_canal": "7",
+        "Canal_cve": "06    ",
+        "CANAL": "INTERNET                                          "
+    },
+    {
+        "ID_canal": "8",
+        "Canal_cve": "07    ",
+        "CANAL": "FAX                                               "
+    },
+    {
+        "ID_canal": "9",
+        "Canal_cve": "08    ",
+        "CANAL": "DIRECTO HOTEL                                     "
+    },
+    {
+        "ID_canal": "10",
+        "Canal_cve": "09    ",
+        "CANAL": "MULTIVACACIONES 2"
+    },
+    {
+        "ID_canal": "11",
+        "Canal_cve": "10    ",
+        "CANAL": "MULTIVACACIONES 1"
+    },
+    {
+        "ID_canal": "12",
+        "Canal_cve": "11    ",
+        "CANAL": "SITIO PROPIO                                      "
+    },
+    {
+        "ID_canal": "13",
+        "Canal_cve": "12    ",
+        "CANAL": "VERTICAL BOOKING                                  "
+    }
+]

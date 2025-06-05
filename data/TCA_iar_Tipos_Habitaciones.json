@@ -1,0 +1,198 @@
+[
+  {
+    "ID_Tipo_Habitacion": "0",
+    "Tipo_Habitacion_cve": "|",
+    "Tipo_Habitacion_nombre": "SIN DEFINIR",
+    "Cupo": "|",
+    "Clasificacion": "|"
+  },
+  {
+    "ID_Tipo_Habitacion": "1",
+    "Tipo_Habitacion_cve": "GHCDS ",
+    "Tipo_Habitacion_nombre": "HANDICAP 2Q    SN12GSU",
+    "Cupo": "2",
+    "Clasificacion": "GSU"
+  },
+  {
+    "ID_Tipo_Habitacion": "2",
+    "Tipo_Habitacion_cve": "GHCKS ",
+    "Tipo_Habitacion_nombre": "HANDICAP 1K    SN12GSU",
+    "Cupo": "2",
+    "Clasificacion": "GSU"
+  },
+  {
+    "ID_Tipo_Habitacion": "3",
+    "Tipo_Habitacion_cve": "GHMS  ",
+    "Tipo_Habitacion_nombre": "HONEY LUN.     SN12GSU",
+    "Cupo": "2",
+    "Clasificacion": "GSU"
+  },
+  {
+    "ID_Tipo_Habitacion": "4",
+    "Tipo_Habitacion_cve": "GLDS  ",
+    "Tipo_Habitacion_nombre": "LUXURY 2Q      SN12GSU",
+    "Cupo": "2",
+    "Clasificacion": "GSU"
+  },
+  {
+    "ID_Tipo_Habitacion": "5",
+    "Tipo_Habitacion_cve": "GLDSB ",
+    "Tipo_Habitacion_nombre": "LUXURY 2Q SB   SN12GSU",
+    "Cupo": "2",
+    "Clasificacion": "GSU"
+  },
+  {
+    "ID_Tipo_Habitacion": "6",
+    "Tipo_Habitacion_cve": "GLKS  ",
+    "Tipo_Habitacion_nombre": "LUXURY 1K      SN12GSU",
+    "Cupo": "2",
+    "Clasificacion": "GSU"
+  },
+  {
+    "ID_Tipo_Habitacion": "7",
+    "Tipo_Habitacion_cve": "GMS   ",
+    "Tipo_Habitacion_nombre": "MASTER SUITE 1KSN12GMS",
+    "Cupo": "2",
+    "Clasificacion": "GMS"
+  },
+  {
+    "ID_Tipo_Habitacion": "8",
+    "Tipo_Habitacion_cve": "GSP   ",
+    "Tipo_Habitacion_nombre": "SUITE PRES     SN12GSP",
+    "Cupo": "2",
+    "Clasificacion": "GSP"
+  },
+  {
+    "ID_Tipo_Habitacion": "9",
+    "Tipo_Habitacion_cve": "IJS   ",
+    "Tipo_Habitacion_nombre": "JR SUITE       SN12AJS",
+    "Cupo": "2",
+    "Clasificacion": "AJS"
+  },
+  {
+    "ID_Tipo_Habitacion": "10",
+    "Tipo_Habitacion_cve": "IJSA  ",
+    "Tipo_Habitacion_nombre": "JR SUITE AZUL  SN12AJS",
+    "Cupo": "2",
+    "Clasificacion": "AJS"
+  },
+  {
+    "ID_Tipo_Habitacion": "11",
+    "Tipo_Habitacion_cve": "IJSD  ",
+    "Tipo_Habitacion_nombre": "JR SUITE DB    SN12AJS",
+    "Cupo": "2",
+    "Clasificacion": "AJS"
+  },
+  {
+    "ID_Tipo_Habitacion": "12",
+    "Tipo_Habitacion_cve": "IJSR  ",
+    "Tipo_Habitacion_nombre": "JR SUITE S/REALSN12AJS",
+    "Cupo": "2",
+    "Clasificacion": "AJS"
+  },
+  {
+    "ID_Tipo_Habitacion": "13",
+    "Tipo_Habitacion_cve": "ILK   ",
+    "Tipo_Habitacion_nombre": "SUP LUJ KING   SN12ASB",
+    "Cupo": "2",
+    "Clasificacion": "ASB"
+  },
+  {
+    "ID_Tipo_Habitacion": "14",
+    "Tipo_Habitacion_cve": "ILSR  ",
+    "Tipo_Habitacion_nombre": "SUP LUJ ING S/RSN12ASB",
+    "Cupo": "2",
+    "Clasificacion": "ASB"
+  },
+  {
+    "ID_Tipo_Habitacion": "15",
+    "Tipo_Habitacion_cve": "IPS   ",
+    "Tipo_Habitacion_nombre": "SUITE PRES     SN12ASP",
+    "Cupo": "2",
+    "Clasificacion": "ASP"
+  },
+  {
+    "ID_Tipo_Habitacion": "16",
+    "Tipo_Habitacion_cve": "IPSR  ",
+    "Tipo_Habitacion_nombre": "SUITE PRES S/R SN12ASP",
+    "Cupo": "2",
+    "Clasificacion": "ASP"
+  },
+  {
+    "ID_Tipo_Habitacion": "17",
+    "Tipo_Habitacion_cve": "ISB   ",
+    "Tipo_Habitacion_nombre": "ESTD C/BALCON  SN12ASB",
+    "Cupo": "2",
+    "Clasificacion": "ASB"
+  },
+  {
+    "ID_Tipo_Habitacion": "18",
+    "Tipo_Habitacion_cve": "ISBR  ",
+    "Tipo_Habitacion_nombre": "ESTD S/REAL    SN12ASB",
+    "Cupo": "2",
+    "Clasificacion": "ASB"
+  },
+  {
+    "ID_Tipo_Habitacion": "19",
+    "Tipo_Habitacion_cve": "ISD   ",
+    "Tipo_Habitacion_nombre": "ESTD DB        SN12AST",
+    "Cupo": "2",
+    "Clasificacion": "AST"
+  },
+  {
+    "ID_Tipo_Habitacion": "20",
+    "Tipo_Habitacion_cve": "ISDR  ",
+    "Tipo_Habitacion_nombre": "ESTD DB S/REAL SN12ASB",
+    "Cupo": "2",
+    "Clasificacion": "ASB"
+  },
+  {
+    "ID_Tipo_Habitacion": "21",
+    "Tipo_Habitacion_cve": "ISF   ",
+    "Tipo_Habitacion_nombre": "SUITE FAMILIAR SN12AFM",
+    "Cupo": "2",
+    "Clasificacion": "AFM"
+  },
+  {
+    "ID_Tipo_Habitacion": "22",
+    "Tipo_Habitacion_cve": "ISK   ",
+    "Tipo_Habitacion_nombre": "ESTD KING      SN12ASD",
+    "Cupo": "2",
+    "Clasificacion": "ASD"
+  },
+  {
+    "ID_Tipo_Habitacion": "23",
+    "Tipo_Habitacion_cve": "MJS   ",
+    "Tipo_Habitacion_nombre": "JR SUITE 1K    SN12MJS",
+    "Cupo": "2",
+    "Clasificacion": "MJS"
+  },
+  {
+    "ID_Tipo_Habitacion": "24",
+    "Tipo_Habitacion_cve": "MJSD  ",
+    "Tipo_Habitacion_nombre": "JR SUITE 2Q    SN12MJS",
+    "Cupo": "2",
+    "Clasificacion": "MJS"
+  },
+  {
+    "ID_Tipo_Habitacion": "25",
+    "Tipo_Habitacion_cve": "MSD   ",
+    "Tipo_Habitacion_nombre": "ESTD 2Q        SN12MST",
+    "Cupo": "2",
+    "Clasificacion": "MST"
+  },
+  {
+    "ID_Tipo_Habitacion": "26",
+    "Tipo_Habitacion_cve": "VLDS  ",
+    "Tipo_Habitacion_nombre": "MV  LUXURY 2Q  SN12GSU",
+    "Cupo": "2",
+    "Clasificacion": "GSU"
+  },
+  {
+    "ID_Tipo_Habitacion": "27",
+    "Tipo_Habitacion_cve": "VLKS  ",
+    "Tipo_Habitacion_nombre": "MV  LUXURY 1K  SN12GSU",
+    "Cupo": "2",
+    "Clasificacion": "GSU"
+  }
+]

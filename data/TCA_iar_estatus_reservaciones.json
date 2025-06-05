@@ -1,0 +1,52 @@
+[
+    {
+        "ID_estatus_reservaciones": "0",
+        "estatus_reservaciones_cve": "|",
+        "ESTATUS DE LA RESERVACION": "SIN DEFINIR"
+    },
+    {
+        "ID_estatus_reservaciones": "1",
+        "estatus_reservaciones_cve": "00",
+        "ESTATUS DE LA RESERVACION": "RESERVACION O (R)REGISTRO"
+    },
+    {
+        "ID_estatus_reservaciones": "2",
+        "estatus_reservaciones_cve": "01",
+        "ESTATUS DE LA RESERVACION": "RESERVACION CANCELADA"
+    },
+    {
+        "ID_estatus_reservaciones": "3",
+        "estatus_reservaciones_cve": "02",
+        "ESTATUS DE LA RESERVACION": "NO SHOW"
+    },
+    {
+        "ID_estatus_reservaciones": "4",
+        "estatus_reservaciones_cve": "03",
+        "ESTATUS DE LA RESERVACION": "RESERVACION EN TRANSICION"
+    },
+    {
+        "ID_estatus_reservaciones": "5",
+        "estatus_reservaciones_cve": "04",
+        "ESTATUS DE LA RESERVACION": "ROOMING LIST"
+    },
+    {
+        "ID_estatus_reservaciones": "6",
+        "estatus_reservaciones_cve": "08",
+        "ESTATUS DE LA RESERVACION": "REGISTRO EN TRANSITO"
+    },
+    {
+        "ID_estatus_reservaciones": "7",
+        "estatus_reservaciones_cve": "09",
+        "ESTATUS DE LA RESERVACION": "PREREGISTRO"
+    },
+    {
+        "ID_estatus_reservaciones": "8",
+        "estatus_reservaciones_cve": "10",
+        "ESTATUS DE LA RESERVACION": "EN CASA (REGISTRO)"
+    },
+    {
+        "ID_estatus_reservaciones": "9",
+        "estatus_reservaciones_cve": "50",
+        "ESTATUS DE LA RESERVACION": "SALIDA"
+    }
+]

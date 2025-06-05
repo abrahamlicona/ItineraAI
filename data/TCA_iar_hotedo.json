@@ -1,0 +1,3758 @@
+[
+    {
+        "e_cod": "EAND  ",
+        "e_des": "ANDORA                        ",
+        "e_pai": "AD ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EAEU  ",
+        "e_des": "UNITED ARAB EMIRATES          ",
+        "e_pai": "AE ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EAFG  ",
+        "e_des": "AFGHANISTAN                   ",
+        "e_pai": "AF ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EAAB  ",
+        "e_des": "ANTIGUA AND BARBUDA           ",
+        "e_pai": "AG ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EAIL  ",
+        "e_des": "ANGUILLA                      ",
+        "e_pai": "AI ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EALB  ",
+        "e_des": "ALBANIA                       ",
+        "e_pai": "AL ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EARM  ",
+        "e_des": "ARMENIA                       ",
+        "e_pai": "AM ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EAOL  ",
+        "e_des": "ANGOLA                        ",
+        "e_pai": "AO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EAQT  ",
+        "e_des": "ANTARCTICA                    ",
+        "e_pai": "AQ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EARG  ",
+        "e_des": "ARGENTINA                     ",
+        "e_pai": "AR ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EASA  ",
+        "e_des": "AMERICAN SAMOA                ",
+        "e_pai": "AS ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EATR  ",
+        "e_des": "AUSTRIA                       ",
+        "e_pai": "AT ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EAUS  ",
+        "e_des": "AUSTRALIA                     ",
+        "e_pai": "AU ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EAWR  ",
+        "e_des": "ARUBA                         ",
+        "e_pai": "AW ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EAXI  ",
+        "e_des": "ALAND ISLANDS                 ",
+        "e_pai": "AX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EAZE  ",
+        "e_des": "AZERBAIJAN                    ",
+        "e_pai": "AZ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EBAH  ",
+        "e_des": "BOSNIA AND HERZEGOVINA        ",
+        "e_pai": "BA ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EBBA  ",
+        "e_des": "BARBADOS                      ",
+        "e_pai": "BB ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EBDE  ",
+        "e_des": "BANGLADESH                    ",
+        "e_pai": "BD ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EBEL  ",
+        "e_des": "BELGIUM                       ",
+        "e_pai": "BE ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EBFA  ",
+        "e_des": "BURKINA FASO                  ",
+        "e_pai": "BF ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EBGA  ",
+        "e_des": "BULGARIA                      ",
+        "e_pai": "BG ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EBHR  ",
+        "e_des": "BAHRAIN                       ",
+        "e_pai": "BH ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EBIR  ",
+        "e_des": "BURUNDI                       ",
+        "e_pai": "BI ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EBJE  ",
+        "e_des": "BENIN                         ",
+        "e_pai": "BJ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EBLE  ",
+        "e_des": "SAINT BARTHELEMY              ",
+        "e_pai": "BL ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EBMU  ",
+        "e_des": "BERMUDA                       ",
+        "e_pai": "BM ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EBND  ",
+        "e_des": "BRUNEI DARUSSALAM             ",
+        "e_pai": "BN ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EBOP  ",
+        "e_des": "BOLIVIA, PLURINATIONAL STATE O",
+        "e_pai": "BO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EBQS  ",
+        "e_des": "BONAIRE, SAINT EUSTATIUS AND S",
+        "e_pai": "BQ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EBRA  ",
+        "e_des": "BRAZIL                        ",
+        "e_pai": "BR ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EBSH  ",
+        "e_des": "BAHAMAS                       ",
+        "e_pai": "BS ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EBTA  ",
+        "e_des": "BHUTAN                        ",
+        "e_pai": "BT ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EBVI  ",
+        "e_des": "BOUVET ISLAND                 ",
+        "e_pai": "BV ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EBWA  ",
+        "e_des": "BOTSWANA                      ",
+        "e_pai": "BW ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EBYE  ",
+        "e_des": "BELARUS                       ",
+        "e_pai": "BY ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EBZE  ",
+        "e_des": "BELIZE                        ",
+        "e_pai": "BZ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ECCI  ",
+        "e_des": "COCOS (KEELING) ISLANDS       ",
+        "e_pai": "CC ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ECDR  ",
+        "e_des": "CONGO, THE DEMOCRATIC REPUBLIC",
+        "e_pai": "CD ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ECFA  ",
+        "e_des": "CENTRAL AFRICAN REPUBLIC      ",
+        "e_pai": "CF ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ECGO  ",
+        "e_des": "CONGO                         ",
+        "e_pai": "CG ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ECHS  ",
+        "e_des": "SWITZERLAND                   ",
+        "e_pai": "CH ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ECIV  ",
+        "e_des": "COTE DIVOIRE                  ",
+        "e_pai": "CI ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ECKI  ",
+        "e_des": "COOK ISLANDS                  ",
+        "e_pai": "CK ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ECLE  ",
+        "e_des": "CHILE                         ",
+        "e_pai": "CL ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ECME  ",
+        "e_des": "CAMEROON                      ",
+        "e_pai": "CM ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ECNA  ",
+        "e_des": "CHINA                         ",
+        "e_pai": "CN ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ECOL  ",
+        "e_des": "COLOMBIA                      ",
+        "e_pai": "CO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ECRI  ",
+        "e_des": "COSTA RICA                    ",
+        "e_pai": "CR ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ECUB  ",
+        "e_des": "CUBA                          ",
+        "e_pai": "CU ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ECVE  ",
+        "e_des": "CAPE VERDE                    ",
+        "e_pai": "CV ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ECWR  ",
+        "e_des": "CURACAO                       ",
+        "e_pai": "CW ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ECXI  ",
+        "e_des": "CHRISTMAS ISLAND              ",
+        "e_pai": "CX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ECYP  ",
+        "e_des": "CYPRUS                        ",
+        "e_pai": "CY ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ECZE  ",
+        "e_des": "CZECH REPUBLIC                ",
+        "e_pai": "CZ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EDEG  ",
+        "e_des": "GERMANY                       ",
+        "e_pai": "DE ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EDJI  ",
+        "e_des": "DJIBOUTI                      ",
+        "e_pai": "DJ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EDKE  ",
+        "e_des": "DENMARK                       ",
+        "e_pai": "DK ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EDMI  ",
+        "e_des": "DOMINICA                      ",
+        "e_pai": "DM ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EDZA  ",
+        "e_des": "ALGERIA                       ",
+        "e_pai": "DZ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EECU  ",
+        "e_des": "ECUADOR                       ",
+        "e_pai": "EC ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EEES  ",
+        "e_des": "ESTONIA                       ",
+        "e_pai": "EE ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EEGY  ",
+        "e_des": "EGYPT                         ",
+        "e_pai": "EG ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EEHW  ",
+        "e_des": "WESTERN SAHARA                ",
+        "e_pai": "EH ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EERI  ",
+        "e_des": "ERITREA                       ",
+        "e_pai": "ER ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EESP  ",
+        "e_des": "SPAIN                         ",
+        "e_pai": "ES ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EETH  ",
+        "e_des": "ETHIOPIA                      ",
+        "e_pai": "ET ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EFIN  ",
+        "e_des": "FINLAND                       ",
+        "e_pai": "FI ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EFJI  ",
+        "e_des": "FIJI                          ",
+        "e_pai": "FJ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EFKI  ",
+        "e_des": "FALKLAND ISLANDS (MALVINAS)   ",
+        "e_pai": "FK ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EFMI  ",
+        "e_des": "MICRONESIA, FEDERATED STATES O",
+        "e_pai": "FM ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EFOI  ",
+        "e_des": "FAROE ISLANDS                 ",
+        "e_pai": "FO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EFRA  ",
+        "e_des": "FRANCE                        ",
+        "e_pai": "FR ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EGAB  ",
+        "e_des": "GABON                         ",
+        "e_pai": "GA ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EGBU  ",
+        "e_des": "UNITED KINGDOM                ",
+        "e_pai": "GB ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EGDR  ",
+        "e_des": "GRENADA                       ",
+        "e_pai": "GD ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EGEO  ",
+        "e_des": "GEORGIA                       ",
+        "e_pai": "GE ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EGFR  ",
+        "e_des": "FRENCH GUIANA                 ",
+        "e_pai": "GF ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EGGU  ",
+        "e_des": "GUERNSEY                      ",
+        "e_pai": "GG ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EGHA  ",
+        "e_des": "GHANA                         ",
+        "e_pai": "GH ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EGIB  ",
+        "e_des": "GIBRALTAR                     ",
+        "e_pai": "GI ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EGLE  ",
+        "e_des": "GREENLAND                     ",
+        "e_pai": "GL ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EGMB  ",
+        "e_des": "GAMBIA                        ",
+        "e_pai": "GM ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EGNE  ",
+        "e_des": "GUINEA                        ",
+        "e_pai": "GN ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EGPE  ",
+        "e_des": "GUADELOUPE                    ",
+        "e_pai": "GP ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EGQU  ",
+        "e_des": "EQUATORIAL GUINEA             ",
+        "e_pai": "GQ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EGRE  ",
+        "e_des": "GREECE                        ",
+        "e_pai": "GR ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EGSS  ",
+        "e_des": "SOUTH GEORGIA AND THE SOUTH SA",
+        "e_pai": "GS ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EGTE  ",
+        "e_des": "GUATEMALA                     ",
+        "e_pai": "GT ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EGUA  ",
+        "e_des": "GUAM                          ",
+        "e_pai": "GU ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EGWB  ",
+        "e_des": "GUINEA-BISSAU                 ",
+        "e_pai": "GW ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EGYA  ",
+        "e_des": "GUYANA                        ",
+        "e_pai": "GY ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EHKO  ",
+        "e_des": "HONG KONG                     ",
+        "e_pai": "HK ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EHMI  ",
+        "e_des": "HEARD ISLAND AND MCDONALD ISLA",
+        "e_pai": "HM ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EHND  ",
+        "e_des": "HONDURAS                      ",
+        "e_pai": "HN ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EHRC  ",
+        "e_des": "CROATIA                       ",
+        "e_pai": "HR ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EHT1  ",
+        "e_des": "HAITI                         ",
+        "e_pai": "HT ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EHUN  ",
+        "e_des": "HUNGARY                       ",
+        "e_pai": "HU ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EIDO  ",
+        "e_des": "INDONESIA                     ",
+        "e_pai": "ID ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EIEL  ",
+        "e_des": "IRELAND                       ",
+        "e_pai": "IE ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EILS  ",
+        "e_des": "ISRAEL                        ",
+        "e_pai": "IL ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EIMA  ",
+        "e_des": "ISLE OF MAN                   ",
+        "e_pai": "IM ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EIND  ",
+        "e_des": "INDIA                         ",
+        "e_pai": "IN ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EIOT  ",
+        "e_des": "BRITISH INDIAN OCEAN TERRITORY",
+        "e_pai": "IO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EIQA  ",
+        "e_des": "IRAQ                          ",
+        "e_pai": "IQ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EIRO  ",
+        "e_des": "IRAN, ISLAMIC REPUBLIC OF     ",
+        "e_pai": "IR ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EISC  ",
+        "e_des": "ICELAND                       ",
+        "e_pai": "IS ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EITA  ",
+        "e_des": "ITALY                         ",
+        "e_pai": "IT ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EJER  ",
+        "e_des": "JERSEY                        ",
+        "e_pai": "JE ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EJMA  ",
+        "e_des": "JAMAICA                       ",
+        "e_pai": "JM ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EJOR  ",
+        "e_des": "JORDAN                        ",
+        "e_pai": "JO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EJPA  ",
+        "e_des": "JAPAN                         ",
+        "e_pai": "JP ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EKEN  ",
+        "e_des": "KENYA                         ",
+        "e_pai": "KE ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EKGY  ",
+        "e_des": "KYRGYZSTAN                    ",
+        "e_pai": "KG ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EKHC  ",
+        "e_des": "CAMBODIA                      ",
+        "e_pai": "KH ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EKIR  ",
+        "e_des": "KIRIBATI                      ",
+        "e_pai": "KI ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EKMO  ",
+        "e_des": "COMOROS                       ",
+        "e_pai": "KM ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EKNE  ",
+        "e_des": "SAINT KITTS AND NEVIS         ",
+        "e_pai": "KN ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EKPD  ",
+        "e_des": "KOREA, DEMOCRATIC PEOPLES REPU",
+        "e_pai": "KP ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EKRO  ",
+        "e_des": "KOREA, REPUBLIC OF            ",
+        "e_pai": "KR ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EKWA  ",
+        "e_des": "KUWAIT                        ",
+        "e_pai": "KW ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EKYM  ",
+        "e_des": "CAYMAN ISLANDS                ",
+        "e_pai": "KY ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EKZA  ",
+        "e_des": "KAZAKHSTAN                    ",
+        "e_pai": "KZ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ELAP  ",
+        "e_des": "LAO PEOPLES DEMOCRATIC REPUBLI",
+        "e_pai": "LA ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ELBA  ",
+        "e_des": "LEBANON                       ",
+        "e_pai": "LB ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ELCI  ",
+        "e_des": "SAINT LUCIA                   ",
+        "e_pai": "LC ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ELIE  ",
+        "e_des": "LIECHTENSTEIN                 ",
+        "e_pai": "LI ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ELKA  ",
+        "e_des": "SRI LANKA                     ",
+        "e_pai": "LK ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ELRI  ",
+        "e_des": "LIBERIA                       ",
+        "e_pai": "LR ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ELSO  ",
+        "e_des": "LESOTHO                       ",
+        "e_pai": "LS ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ELTH  ",
+        "e_des": "LITHUANIA                     ",
+        "e_pai": "LT ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ELUX  ",
+        "e_des": "LUXEMBOURG                    ",
+        "e_pai": "LU ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ELVI  ",
+        "e_des": "LATVIA                        ",
+        "e_pai": "LV ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ELYA  ",
+        "e_des": "LIBYAN ARAB JAMAHIRIYA        ",
+        "e_pai": "LY ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EMAR  ",
+        "e_des": "MOROCCO                       ",
+        "e_pai": "MA ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EMCO  ",
+        "e_des": "MONACO                        ",
+        "e_pai": "MC ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EMDR  ",
+        "e_des": "MOLDOVA, REPUBLIC OF          ",
+        "e_pai": "MD ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EMEN  ",
+        "e_des": "MONTENEGRO                    ",
+        "e_pai": "ME ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EMFP  ",
+        "e_des": "SAINT MARTIN (FRENCH PART)    ",
+        "e_pai": "MF ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EMGA  ",
+        "e_des": "MADAGASCAR                    ",
+        "e_pai": "MG ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EMHI  ",
+        "e_des": "MARSHALL ISLANDS              ",
+        "e_pai": "MH ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EMKF  ",
+        "e_des": "MACEDONIA, THE FORMER YUGOSLAV",
+        "e_pai": "MK ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EMLI  ",
+        "e_des": "MALI                          ",
+        "e_pai": "ML ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EMMY  ",
+        "e_des": "MYANMAR                       ",
+        "e_pai": "MM ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EMNG  ",
+        "e_des": "MONGOLIA                      ",
+        "e_pai": "MN ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EMOA  ",
+        "e_des": "MACAO                         ",
+        "e_pai": "MO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EMPI  ",
+        "e_des": "NORTHERN MARIANA ISLANDS      ",
+        "e_pai": "MP ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EMQU  ",
+        "e_des": "MARTINIQUE                    ",
+        "e_pai": "MQ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EMRI  ",
+        "e_des": "MAURITANIA                    ",
+        "e_pai": "MR ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EMSE  ",
+        "e_des": "MONTSERRAT                    ",
+        "e_pai": "MS ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EMTA  ",
+        "e_des": "MALTA                         ",
+        "e_pai": "MT ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EMUR  ",
+        "e_des": "MAURITIUS                     ",
+        "e_pai": "MU ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EMVE  ",
+        "e_des": "MALDIVES                      ",
+        "e_pai": "MV ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EMWI  ",
+        "e_des": "MALAWI                        ",
+        "e_pai": "MW ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EMYA  ",
+        "e_des": "MALAYSIA                      ",
+        "e_pai": "MY ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EMZA  ",
+        "e_des": "MOZAMBIQUE                    ",
+        "e_pai": "MZ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ENAM  ",
+        "e_des": "NAMIBIA                       ",
+        "e_pai": "NA ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ENCA  ",
+        "e_des": "NEW CALEDONIA                 ",
+        "e_pai": "NC ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ENER  ",
+        "e_des": "NIGER                         ",
+        "e_pai": "NE ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ENFO  ",
+        "e_des": "NORFOLK ISLAND                ",
+        "e_pai": "NF ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ENGE  ",
+        "e_des": "NIGERIA                       ",
+        "e_pai": "NG ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ENIC  ",
+        "e_des": "NICARAGUA                     ",
+        "e_pai": "NI ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ENLA  ",
+        "e_des": "NETHERLANDS                   ",
+        "e_pai": "NL ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ENOR  ",
+        "e_des": "NORWAY                        ",
+        "e_pai": "NO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ENPA  ",
+        "e_des": "NEPAL                         ",
+        "e_pai": "NP ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ENRU  ",
+        "e_des": "NAURU                         ",
+        "e_pai": "NR ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ENUE  ",
+        "e_des": "NIUE                          ",
+        "e_pai": "NU ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ENZE  ",
+        "e_des": "NEW ZEALAND                   ",
+        "e_pai": "NZ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EOMA  ",
+        "e_des": "OMAN                          ",
+        "e_pai": "OM ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EPAN  ",
+        "e_des": "PANAMA                        ",
+        "e_pai": "PA ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EPER  ",
+        "e_des": "PERU                          ",
+        "e_pai": "PE ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EPFR  ",
+        "e_des": "FRENCH POLYNESIA              ",
+        "e_pai": "PF ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EPGU  ",
+        "e_des": "PAPUA NEW GUINEA              ",
+        "e_pai": "PG ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EPHI  ",
+        "e_des": "PHILIPPINES                   ",
+        "e_pai": "PH ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EPKI  ",
+        "e_des": "PAKISTAN                      ",
+        "e_pai": "PK ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EPLA  ",
+        "e_des": "POLAND                        ",
+        "e_pai": "PL ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EPMI  ",
+        "e_des": "SAINT PIERRE AND MIQUELON     ",
+        "e_pai": "PM ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EPNI  ",
+        "e_des": "PITCAIRN                      ",
+        "e_pai": "PN ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EPRI  ",
+        "e_des": "PUERTO RICO                   ",
+        "e_pai": "PR ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EPST  ",
+        "e_des": "PALESTINIAN TERRITORY, OCCUPIE",
+        "e_pai": "PS ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EPTG  ",
+        "e_des": "PORTUGAL                      ",
+        "e_pai": "PT ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EPWA  ",
+        "e_des": "PALAU                         ",
+        "e_pai": "PW ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EPYA  ",
+        "e_des": "PARAGUAY                      ",
+        "e_pai": "PY ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EQAT  ",
+        "e_des": "QATAR                         ",
+        "e_pai": "QA ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EREU  ",
+        "e_des": "REUNION                       ",
+        "e_pai": "RE ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EROM  ",
+        "e_des": "ROMANIA                       ",
+        "e_pai": "RO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ERSE  ",
+        "e_des": "SERBIA                        ",
+        "e_pai": "RS ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ERU   ",
+        "e_des": "RUSSIAN FEDERATION            ",
+        "e_pai": "RU ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ERWA  ",
+        "e_des": "RWANDA                        ",
+        "e_pai": "RW ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ESAA  ",
+        "e_des": "SAUDI ARABIA                  ",
+        "e_pai": "SA ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ESB   ",
+        "e_des": "SOLOMON ISLANDS               ",
+        "e_pai": "SB ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ESCE  ",
+        "e_des": "SEYCHELLES                    ",
+        "e_pai": "SC ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ESDA  ",
+        "e_des": "SUDAN                         ",
+        "e_pai": "SD ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ESED  ",
+        "e_des": "SWEDEN                        ",
+        "e_pai": "SE ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ESGA  ",
+        "e_des": "SINGAPORE                     ",
+        "e_pai": "SG ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ESHA  ",
+        "e_des": "SAINT HELENA, ASCENSION AND TR",
+        "e_pai": "SH ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ESIA  ",
+        "e_des": "SLOVENIA                      ",
+        "e_pai": "SI ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ESJM  ",
+        "e_des": "SVALBARD AND JAN MAYEN        ",
+        "e_pai": "SJ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ESKI  ",
+        "e_des": "SLOVAKIA                      ",
+        "e_pai": "SK ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ESLE  ",
+        "e_des": "SIERRA LEONE                  ",
+        "e_pai": "SL ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ESMA  ",
+        "e_des": "SAN MARINO                    ",
+        "e_pai": "SM ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ESNE  ",
+        "e_des": "SENEGAL                       ",
+        "e_pai": "SN ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ESOM  ",
+        "e_des": "SOMALIA                       ",
+        "e_pai": "SO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ESRI  ",
+        "e_des": "SURINAME                      ",
+        "e_pai": "SR ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ESTO  ",
+        "e_des": "SAO TOME AND PRINCIPE         ",
+        "e_pai": "ST ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ESVA  ",
+        "e_des": "EL SALVADOR                   ",
+        "e_pai": "SV ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ESXD  ",
+        "e_des": "SINT MAARTEN (DUTCH PART)     ",
+        "e_pai": "SX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ESYA  ",
+        "e_des": "SYRIAN ARAB REPUBLIC          ",
+        "e_pai": "SY ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ESZI  ",
+        "e_des": "SWAZILAND                     ",
+        "e_pai": "SZ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ETCI  ",
+        "e_des": "TURKS AND CAICOS ISLANDS      ",
+        "e_pai": "TC ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ETDC  ",
+        "e_des": "CHAD                          ",
+        "e_pai": "TD ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ETFS  ",
+        "e_des": "FRENCH SOUTHERN TERRITORIES   ",
+        "e_pai": "TF ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ETGO  ",
+        "e_des": "TOGO                          ",
+        "e_pai": "TG ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ETHA  ",
+        "e_des": "THAILAND                      ",
+        "e_pai": "TH ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ETJI  ",
+        "e_des": "TAJIKISTAN                    ",
+        "e_pai": "TJ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ETKE  ",
+        "e_des": "TOKELAU                       ",
+        "e_pai": "TK ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ETLE  ",
+        "e_des": "TIMOR-LESTE                   ",
+        "e_pai": "TL ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ETME  ",
+        "e_des": "TURKMENISTAN                  ",
+        "e_pai": "TM ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ETNS  ",
+        "e_des": "TUNISIA                       ",
+        "e_pai": "TN ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ETOG  ",
+        "e_des": "TONGA                         ",
+        "e_pai": "TO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ETRK  ",
+        "e_des": "TURKEY                        ",
+        "e_pai": "TR ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ETTO  ",
+        "e_des": "TRINIDAD AND TOBAGO           ",
+        "e_pai": "TT ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ETVA  ",
+        "e_des": "TUVALU                        ",
+        "e_pai": "TV ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ETWA  ",
+        "e_des": "TAIWAN, PROVINCE OF CHINA     ",
+        "e_pai": "TW ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ETZU  ",
+        "e_des": "TANZANIA, UNITED REPUBLIC OF  ",
+        "e_pai": "TZ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EUAI  ",
+        "e_des": "UKRAINE                       ",
+        "e_pai": "UA ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EUGA  ",
+        "e_des": "UGANDA                        ",
+        "e_pai": "UG ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EUMO  ",
+        "e_des": "UNITED STATES MINOR OUTLYING I",
+        "e_pai": "UM ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EUYU  ",
+        "e_des": "URUGUAY                       ",
+        "e_pai": "UY ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EUZB  ",
+        "e_des": "UZBEKISTAN                    ",
+        "e_pai": "UZ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EVAC  ",
+        "e_des": "HOLY SEE (VATICAN CITY STATE) ",
+        "e_pai": "VA ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EVCG  ",
+        "e_des": "SAINT VINCENT AND THE GRENADIN",
+        "e_pai": "VC ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EVGB  ",
+        "e_des": "VIRGIN ISLANDS, BRITISH       ",
+        "e_pai": "VG ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EVIS  ",
+        "e_des": "VIRGIN ISLANDS, U.S.          ",
+        "e_pai": "VI ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EVNA  ",
+        "e_des": "VIET NAM                      ",
+        "e_pai": "VN ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EVUA  ",
+        "e_des": "VANUATU                       ",
+        "e_pai": "VU ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EWFU  ",
+        "e_des": "WALLIS AND FUTUNA             ",
+        "e_pai": "WF ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EWSA  ",
+        "e_des": "SAMOA                         ",
+        "e_pai": "WS ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EYEM  ",
+        "e_des": "YEMEN                         ",
+        "e_pai": "YE ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EYTT  ",
+        "e_des": "MAYOTTE                       ",
+        "e_pai": "YT ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EZAF  ",
+        "e_des": "SOUTH AFRICA                  ",
+        "e_pai": "ZA ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EZMB  ",
+        "e_des": "ZAMBIA                        ",
+        "e_pai": "ZM ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EZWE  ",
+        "e_des": "ZIMBABWE                      ",
+        "e_pai": "ZW ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EVEN  ",
+        "e_des": "VENEZUELA                     ",
+        "e_pai": "VE ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EAB   ",
+        "e_des": "ALBERTA                       ",
+        "e_pai": "CA ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EBC   ",
+        "e_des": "BRITISH COLUMBIA              ",
+        "e_pai": "CA ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EMB   ",
+        "e_des": "MANITOBA                      ",
+        "e_pai": "CA ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ENB   ",
+        "e_des": "NEW BRUNSWICK                 ",
+        "e_pai": "CA ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ENF   ",
+        "e_des": "NEWFOUNDLAND & LABRADOR       ",
+        "e_pai": "CA ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ENT   ",
+        "e_des": "NORTHWEST TERRITORIES         ",
+        "e_pai": "CA ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ENS   ",
+        "e_des": "NOVA SCOTIA                   ",
+        "e_pai": "CA ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ENU   ",
+        "e_des": "NUNAVUT                       ",
+        "e_pai": "CA ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EON   ",
+        "e_des": "ONTARIO                       ",
+        "e_pai": "CA ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EPE   ",
+        "e_des": "PRINCE EDWARD ISLAND          ",
+        "e_pai": "CA ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EQC   ",
+        "e_des": "QUEBEC                        ",
+        "e_pai": "CA ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ESK   ",
+        "e_des": "SASKATCHEWAN                  ",
+        "e_pai": "CA ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EYT   ",
+        "e_des": "YUKON                         ",
+        "e_pai": "CA ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ED01  ",
+        "e_des": "DISTRITO NACIONAL             ",
+        "e_pai": "DO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ED02  ",
+        "e_des": "AZUA                          ",
+        "e_pai": "DO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ED03  ",
+        "e_des": "BAORUCO                       ",
+        "e_pai": "DO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ED04  ",
+        "e_des": "BARAHONA                      ",
+        "e_pai": "DO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ED05  ",
+        "e_des": "DAJABÓN                       ",
+        "e_pai": "DO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ED06  ",
+        "e_des": "DUARTE                        ",
+        "e_pai": "DO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ED07  ",
+        "e_des": "ELÍAS PIÑA                    ",
+        "e_pai": "DO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ED08  ",
+        "e_des": "EL SEIBO                      ",
+        "e_pai": "DO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ED09  ",
+        "e_des": "ESPAILLAT                     ",
+        "e_pai": "DO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ED10  ",
+        "e_des": "INDEPENDENCIA                 ",
+        "e_pai": "DO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ED11  ",
+        "e_des": "LA ALTAGRACIA                 ",
+        "e_pai": "DO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ED12  ",
+        "e_des": "LA ROMANA                     ",
+        "e_pai": "DO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ED13  ",
+        "e_des": "LA VEGA                       ",
+        "e_pai": "DO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ED14  ",
+        "e_des": "MARÍA TRINIDAD SÁNCHEZ        ",
+        "e_pai": "DO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ED15  ",
+        "e_des": "MONTE CRISTI                  ",
+        "e_pai": "DO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ED16  ",
+        "e_des": "PEDERNALES                    ",
+        "e_pai": "DO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ED17  ",
+        "e_des": "PERAVIA                       ",
+        "e_pai": "DO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ED18  ",
+        "e_des": "PUERTO PLATA                  ",
+        "e_pai": "DO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ED19  ",
+        "e_des": "SALCEDO                       ",
+        "e_pai": "DO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ED20  ",
+        "e_des": "SAMANÁ                        ",
+        "e_pai": "DO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ED21  ",
+        "e_des": "SAN CRISTÓBAL                 ",
+        "e_pai": "DO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ED22  ",
+        "e_des": "SAN JUAN                      ",
+        "e_pai": "DO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ED23  ",
+        "e_des": "SAN PEDRO DE MACORÍS          ",
+        "e_pai": "DO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ED24  ",
+        "e_des": "SÁNCHEZ RAMÍREZ               ",
+        "e_pai": "DO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ED25  ",
+        "e_des": "SANTIAGO                      ",
+        "e_pai": "DO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ED26  ",
+        "e_des": "SANTIAGO RODRÍGUEZ            ",
+        "e_pai": "DO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ED27  ",
+        "e_des": "VALVERDE                      ",
+        "e_pai": "DO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ED28  ",
+        "e_des": "MONSEÑOR NOUEL                ",
+        "e_pai": "DO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ED29  ",
+        "e_des": "MONTE PLATA                   ",
+        "e_pai": "DO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ED30  ",
+        "e_des": "HATO MAYOR                    ",
+        "e_pai": "DO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EAGU  ",
+        "e_des": "AGUASCALIENTES                ",
+        "e_pai": "MX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EBCN  ",
+        "e_des": "BAJA CALIFORNIA NORTE         ",
+        "e_pai": "MX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EBSU  ",
+        "e_des": "BAJA CALIFORNIA SUR           ",
+        "e_pai": "MX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ECM   ",
+        "e_des": "CAMPECHE                      ",
+        "e_pai": "MX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ECS   ",
+        "e_des": "CHIAPAS                       ",
+        "e_pai": "MX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ECH   ",
+        "e_des": "CHIHUAHUA                     ",
+        "e_pai": "MX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ECU   ",
+        "e_des": "COAHUILA                      ",
+        "e_pai": "MX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ECL   ",
+        "e_des": "COLIMA                        ",
+        "e_pai": "MX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EDF   ",
+        "e_des": "DISTRITO FEDERAL              ",
+        "e_pai": "MX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EDG   ",
+        "e_des": "DURANGO                       ",
+        "e_pai": "MX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EGT   ",
+        "e_des": "GUANAJUATO                    ",
+        "e_pai": "MX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EGR   ",
+        "e_des": "GUERRERO                      ",
+        "e_pai": "MX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EHG   ",
+        "e_des": "HIDALGO                       ",
+        "e_pai": "MX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EJA   ",
+        "e_des": "JALISCO                       ",
+        "e_pai": "MX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EMX   ",
+        "e_des": "MÉXICO                        ",
+        "e_pai": "MX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EMC   ",
+        "e_des": "MICHOACÁN                     ",
+        "e_pai": "MX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EMR   ",
+        "e_des": "MORELOS                       ",
+        "e_pai": "MX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ENA   ",
+        "e_des": "NAYARIT                       ",
+        "e_pai": "MX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ENL   ",
+        "e_des": "NUEVO LEÓN                    ",
+        "e_pai": "MX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EOA   ",
+        "e_des": "OAXACA                        ",
+        "e_pai": "MX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EPB   ",
+        "e_des": "PUEBLA                        ",
+        "e_pai": "MX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EQE   ",
+        "e_des": "QUERÉTARO                     ",
+        "e_pai": "MX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EQR   ",
+        "e_des": "QUINTANA ROO                  ",
+        "e_pai": "MX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ESL   ",
+        "e_des": "SAN LUIS POTOSÍ               ",
+        "e_pai": "MX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ESI   ",
+        "e_des": "SINALOA                       ",
+        "e_pai": "MX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ESO   ",
+        "e_des": "SONORA                        ",
+        "e_pai": "MX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ETB   ",
+        "e_des": "TABASCO                       ",
+        "e_pai": "MX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ETM   ",
+        "e_des": "TAMAULIPAS                    ",
+        "e_pai": "MX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ETL   ",
+        "e_des": "TLAXCALA                      ",
+        "e_pai": "MX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EVE   ",
+        "e_des": "VERACRUZ                      ",
+        "e_pai": "MX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EYU   ",
+        "e_des": "YUCATÁN                       ",
+        "e_pai": "MX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EZA   ",
+        "e_des": "ZACATECAS                     ",
+        "e_pai": "MX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EAL   ",
+        "e_des": "ALABAMA                       ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EAK   ",
+        "e_des": "ALASKA                        ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EAS   ",
+        "e_des": "AMERICAN SAMOA                ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EAZ   ",
+        "e_des": "ARIZONA                       ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EAR   ",
+        "e_des": "ARKANSAS                      ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ECA   ",
+        "e_des": "CALIFORNIA                    ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ECO   ",
+        "e_des": "COLORADO                      ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ECT   ",
+        "e_des": "CONNECTICUT                   ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EDE   ",
+        "e_des": "DELAWARE                      ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EDC   ",
+        "e_des": "DISTRICT OF COLUMBIA          ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EFM   ",
+        "e_des": "FEDERATED STATES OF MICRONESIA",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EFL   ",
+        "e_des": "FLORIDA                       ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EGA   ",
+        "e_des": "GEORGIA                       ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EGU   ",
+        "e_des": "GUAM                          ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EHI   ",
+        "e_des": "HAWAII                        ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EID   ",
+        "e_des": "IDAHO                         ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EIL   ",
+        "e_des": "ILLINOIS                      ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EIN   ",
+        "e_des": "INDIANA                       ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EIA   ",
+        "e_des": "IOWA                          ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EKS   ",
+        "e_des": "KANSAS                        ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EKY   ",
+        "e_des": "KENTUCKY                      ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ELA   ",
+        "e_des": "LOUISIANA                     ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EME   ",
+        "e_des": "MAINE                         ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EMH   ",
+        "e_des": "MARSHALL ISLANDS              ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EMD   ",
+        "e_des": "MARYLAND                      ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EMA   ",
+        "e_des": "MASSACHUSETTS                 ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EMI   ",
+        "e_des": "MICHIGAN                      ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EMN   ",
+        "e_des": "MINNESOTA                     ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EMS   ",
+        "e_des": "MISSISSIPPI                   ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EMO   ",
+        "e_des": "MISSOURI                      ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EMT   ",
+        "e_des": "MONTANA                       ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ENE   ",
+        "e_des": "NEBRASKA                      ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ENV   ",
+        "e_des": "NEVADA                        ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ENH   ",
+        "e_des": "NEW HAMPSHIRE                 ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ENJ   ",
+        "e_des": "NEW JERSEY                    ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ENM   ",
+        "e_des": "NEW MEXICO                    ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ENY   ",
+        "e_des": "NEW YORK                      ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ENC   ",
+        "e_des": "NORTH CAROLINA                ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "END   ",
+        "e_des": "NORTH DAKOTA                  ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EMP   ",
+        "e_des": "NORTHERN MARIANA ISLANDS      ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EOH   ",
+        "e_des": "OHIO                          ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EOK   ",
+        "e_des": "OKLAHOMA                      ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EOR   ",
+        "e_des": "OREGON                        ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EPW   ",
+        "e_des": "PALAU                         ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EPA   ",
+        "e_des": "PENNSYLVANIA                  ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EPR   ",
+        "e_des": "PUERTO RICO                   ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ERI   ",
+        "e_des": "RHODE ISLAND                  ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ESC   ",
+        "e_des": "SOUTH CAROLINA                ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ESD   ",
+        "e_des": "SOUTH DAKOTA                  ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ETN   ",
+        "e_des": "TENNESSEE                     ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "ETX   ",
+        "e_des": "TEXAS                         ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EUT   ",
+        "e_des": "UTAH                          ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EVT   ",
+        "e_des": "VERMONT                       ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EVI   ",
+        "e_des": "VIRGIN ISLANDS                ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EVA   ",
+        "e_des": "VIRGINIA                      ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EWA   ",
+        "e_des": "WASHINGTON                    ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EWV   ",
+        "e_des": "WEST VIRGINIA                 ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EWI   ",
+        "e_des": "WISCONSIN                     ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "EWY   ",
+        "e_des": "WYOMING                       ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PAD   ",
+        "e_des": "ANDORRA                       ",
+        "e_pai": "AD ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PAE   ",
+        "e_des": "UNITED ARAB EMIRATES          ",
+        "e_pai": "AE ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PAF   ",
+        "e_des": "AFGHANISTAN                   ",
+        "e_pai": "AF ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PAG   ",
+        "e_des": "ANTIGUA AND BARBUDA           ",
+        "e_pai": "AG ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PAI   ",
+        "e_des": "ANGUILLA                      ",
+        "e_pai": "AI ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PAL   ",
+        "e_des": "ALBANIA                       ",
+        "e_pai": "AL ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PAM   ",
+        "e_des": "ARMENIA                       ",
+        "e_pai": "AM ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PAO   ",
+        "e_des": "ANGOLA                        ",
+        "e_pai": "AO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PAQ   ",
+        "e_des": "ANTARCTICA                    ",
+        "e_pai": "AQ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PAR   ",
+        "e_des": "ARGENTINA                     ",
+        "e_pai": "AR ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PAS   ",
+        "e_des": "AMERICAN SAMOA                ",
+        "e_pai": "AS ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PAT   ",
+        "e_des": "AUSTRIA                       ",
+        "e_pai": "AT ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PAU   ",
+        "e_des": "AUSTRALIA                     ",
+        "e_pai": "AU ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PAW   ",
+        "e_des": "ARUBA                         ",
+        "e_pai": "AW ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PAX   ",
+        "e_des": "ALAND ISLANDS                 ",
+        "e_pai": "AX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PAZ   ",
+        "e_des": "AZERBAIJAN                    ",
+        "e_pai": "AZ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PBA   ",
+        "e_des": "BOSNIA AND HERZEGOVINA        ",
+        "e_pai": "BA ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PBB   ",
+        "e_des": "BARBADOS                      ",
+        "e_pai": "BB ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PBD   ",
+        "e_des": "BANGLADESH                    ",
+        "e_pai": "BD ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PBE   ",
+        "e_des": "BELGIUM                       ",
+        "e_pai": "BE ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PBF   ",
+        "e_des": "BURKINA FASO                  ",
+        "e_pai": "BF ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PBG   ",
+        "e_des": "BULGARIA                      ",
+        "e_pai": "BG ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PBH   ",
+        "e_des": "BAHRAIN                       ",
+        "e_pai": "BH ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PBI   ",
+        "e_des": "BURUNDI                       ",
+        "e_pai": "BI ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PBJ   ",
+        "e_des": "BENIN                         ",
+        "e_pai": "BJ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PBL   ",
+        "e_des": "SAINT BARTHELEMY              ",
+        "e_pai": "BL ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PBM   ",
+        "e_des": "BERMUDA                       ",
+        "e_pai": "BM ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PBN   ",
+        "e_des": "BRUNEI DARUSSALAM             ",
+        "e_pai": "BN ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PBO   ",
+        "e_des": "BOLIVIA, PLURINATIONAL STATE O",
+        "e_pai": "BO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PBQ   ",
+        "e_des": "BONAIRE, SAINT EUSTATIUS AND S",
+        "e_pai": "BQ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PBR   ",
+        "e_des": "BRAZIL                        ",
+        "e_pai": "BR ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PBS   ",
+        "e_des": "BAHAMAS                       ",
+        "e_pai": "BS ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PBT   ",
+        "e_des": "BHUTAN                        ",
+        "e_pai": "BT ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PBV   ",
+        "e_des": "BOUVET ISLAND                 ",
+        "e_pai": "BV ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PBW   ",
+        "e_des": "BOTSWANA                      ",
+        "e_pai": "BW ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PBY   ",
+        "e_des": "BELARUS                       ",
+        "e_pai": "BY ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PBZ   ",
+        "e_des": "BELIZE                        ",
+        "e_pai": "BZ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PCC   ",
+        "e_des": "COCOS (KEELING) ISLANDS       ",
+        "e_pai": "CC ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PCD   ",
+        "e_des": "CONGO, THE DEMOCRATIC REPUBLIC",
+        "e_pai": "CD ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PCF   ",
+        "e_des": "CENTRAL AFRICAN REPUBLIC      ",
+        "e_pai": "CF ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PCG   ",
+        "e_des": "CONGO                         ",
+        "e_pai": "CG ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PCH   ",
+        "e_des": "SWITZERLAND                   ",
+        "e_pai": "CH ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PCI   ",
+        "e_des": "COTE DIVOIRE                  ",
+        "e_pai": "CI ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PCK   ",
+        "e_des": "COOK ISLANDS                  ",
+        "e_pai": "CK ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PCL   ",
+        "e_des": "CHILE                         ",
+        "e_pai": "CL ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PCM   ",
+        "e_des": "CAMEROON                      ",
+        "e_pai": "CM ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PCN   ",
+        "e_des": "CHINA                         ",
+        "e_pai": "CN ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PCO   ",
+        "e_des": "COLOMBIA                      ",
+        "e_pai": "CO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PCR   ",
+        "e_des": "COSTA RICA                    ",
+        "e_pai": "CR ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PCU   ",
+        "e_des": "CUBA                          ",
+        "e_pai": "CU ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PCV   ",
+        "e_des": "CAPE VERDE                    ",
+        "e_pai": "CV ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PCW   ",
+        "e_des": "CURACAO                       ",
+        "e_pai": "CW ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PCX   ",
+        "e_des": "CHRISTMAS ISLAND              ",
+        "e_pai": "CX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PCY   ",
+        "e_des": "CYPRUS                        ",
+        "e_pai": "CY ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PCZ   ",
+        "e_des": "CZECH REPUBLIC                ",
+        "e_pai": "CZ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PDE   ",
+        "e_des": "GERMANY                       ",
+        "e_pai": "DE ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PDJ   ",
+        "e_des": "DJIBOUTI                      ",
+        "e_pai": "DJ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PDK   ",
+        "e_des": "DENMARK                       ",
+        "e_pai": "DK ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PDM   ",
+        "e_des": "DOMINICA                      ",
+        "e_pai": "DM ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PDZ   ",
+        "e_des": "ALGERIA                       ",
+        "e_pai": "DZ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PEC   ",
+        "e_des": "ECUADOR                       ",
+        "e_pai": "EC ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PEE   ",
+        "e_des": "ESTONIA                       ",
+        "e_pai": "EE ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PEG   ",
+        "e_des": "EGYPT                         ",
+        "e_pai": "EG ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PEH   ",
+        "e_des": "WESTERN SAHARA                ",
+        "e_pai": "EH ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PER   ",
+        "e_des": "ERITREA                       ",
+        "e_pai": "ER ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PES   ",
+        "e_des": "SPAIN                         ",
+        "e_pai": "ES ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PET   ",
+        "e_des": "ETHIOPIA                      ",
+        "e_pai": "ET ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PFI   ",
+        "e_des": "FINLAND                       ",
+        "e_pai": "FI ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PFJ   ",
+        "e_des": "FIJI                          ",
+        "e_pai": "FJ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PFK   ",
+        "e_des": "FALKLAND ISLANDS (MALVINAS)   ",
+        "e_pai": "FK ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PFM   ",
+        "e_des": "MICRONESIA, FEDERATED STATES O",
+        "e_pai": "FM ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PFO   ",
+        "e_des": "FAROE ISLANDS                 ",
+        "e_pai": "FO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PFR   ",
+        "e_des": "FRANCE                        ",
+        "e_pai": "FR ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PGA   ",
+        "e_des": "GABON                         ",
+        "e_pai": "GA ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PGB   ",
+        "e_des": "UNITED KINGDOM                ",
+        "e_pai": "GB ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PGD   ",
+        "e_des": "GRENADA                       ",
+        "e_pai": "GD ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PGE   ",
+        "e_des": "GEORGIA                       ",
+        "e_pai": "GE ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PGF   ",
+        "e_des": "FRENCH GUIANA                 ",
+        "e_pai": "GF ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PGG   ",
+        "e_des": "GUERNSEY                      ",
+        "e_pai": "GG ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PGH   ",
+        "e_des": "GHANA                         ",
+        "e_pai": "GH ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PGI   ",
+        "e_des": "GIBRALTAR                     ",
+        "e_pai": "GI ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PGL   ",
+        "e_des": "GREENLAND                     ",
+        "e_pai": "GL ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PGM   ",
+        "e_des": "GAMBIA                        ",
+        "e_pai": "GM ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PGN   ",
+        "e_des": "GUINEA                        ",
+        "e_pai": "GN ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PGP   ",
+        "e_des": "GUADELOUPE                    ",
+        "e_pai": "GP ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PGQ   ",
+        "e_des": "EQUATORIAL GUINEA             ",
+        "e_pai": "GQ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PGR   ",
+        "e_des": "GREECE                        ",
+        "e_pai": "GR ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PGS   ",
+        "e_des": "SOUTH GEORGIA AND THE SOUTH SA",
+        "e_pai": "GS ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PGT   ",
+        "e_des": "GUATEMALA                     ",
+        "e_pai": "GT ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PGU   ",
+        "e_des": "GUAM                          ",
+        "e_pai": "GU ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PGW   ",
+        "e_des": "GUINEA-BISSAU                 ",
+        "e_pai": "GW ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PGY   ",
+        "e_des": "GUYANA                        ",
+        "e_pai": "GY ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PHK   ",
+        "e_des": "HONG KONG                     ",
+        "e_pai": "HK ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PHM   ",
+        "e_des": "HEARD ISLAND AND MCDONALD ISLA",
+        "e_pai": "HM ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PHN   ",
+        "e_des": "HONDURAS                      ",
+        "e_pai": "HN ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PHR   ",
+        "e_des": "CROATIA                       ",
+        "e_pai": "HR ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PHT   ",
+        "e_des": "HAITI                         ",
+        "e_pai": "HT ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PHU   ",
+        "e_des": "HUNGARY                       ",
+        "e_pai": "HU ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PID   ",
+        "e_des": "INDONESIA                     ",
+        "e_pai": "ID ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PIE   ",
+        "e_des": "IRELAND                       ",
+        "e_pai": "IE ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PIL   ",
+        "e_des": "ISRAEL                        ",
+        "e_pai": "IL ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PIM   ",
+        "e_des": "ISLE OF MAN                   ",
+        "e_pai": "IM ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PIN   ",
+        "e_des": "INDIA                         ",
+        "e_pai": "IN ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PIO   ",
+        "e_des": "BRITISH INDIAN OCEAN TERRITORY",
+        "e_pai": "IO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PIQ   ",
+        "e_des": "IRAQ                          ",
+        "e_pai": "IQ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PIR   ",
+        "e_des": "IRAN, ISLAMIC REPUBLIC OF     ",
+        "e_pai": "IR ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PIS   ",
+        "e_des": "ICELAND                       ",
+        "e_pai": "IS ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PIT   ",
+        "e_des": "ITALY                         ",
+        "e_pai": "IT ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PJE   ",
+        "e_des": "JERSEY                        ",
+        "e_pai": "JE ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PJM   ",
+        "e_des": "JAMAICA                       ",
+        "e_pai": "JM ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PJO   ",
+        "e_des": "JORDAN                        ",
+        "e_pai": "JO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PJP   ",
+        "e_des": "JAPAN                         ",
+        "e_pai": "JP ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PKE   ",
+        "e_des": "KENYA                         ",
+        "e_pai": "KE ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PKG   ",
+        "e_des": "KYRGYZSTAN                    ",
+        "e_pai": "KG ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PKH   ",
+        "e_des": "CAMBODIA                      ",
+        "e_pai": "KH ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PKI   ",
+        "e_des": "KIRIBATI                      ",
+        "e_pai": "KI ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PKM   ",
+        "e_des": "COMOROS                       ",
+        "e_pai": "KM ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PKN   ",
+        "e_des": "SAINT KITTS AND NEVIS         ",
+        "e_pai": "KN ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PKP   ",
+        "e_des": "KOREA, DEMOCRATIC PEOPLES REPU",
+        "e_pai": "KP ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PKR   ",
+        "e_des": "KOREA, REPUBLIC OF            ",
+        "e_pai": "KR ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PKW   ",
+        "e_des": "KUWAIT                        ",
+        "e_pai": "KW ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PKY   ",
+        "e_des": "CAYMAN ISLANDS                ",
+        "e_pai": "KY ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PKZ   ",
+        "e_des": "KAZAKHSTAN                    ",
+        "e_pai": "KZ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PLA   ",
+        "e_des": "LAO PEOPLES DEMOCRATIC REPUBLI",
+        "e_pai": "LA ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PLB   ",
+        "e_des": "LEBANON                       ",
+        "e_pai": "LB ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PLC   ",
+        "e_des": "SAINT LUCIA                   ",
+        "e_pai": "LC ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PLI   ",
+        "e_des": "LIECHTENSTEIN                 ",
+        "e_pai": "LI ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PLK   ",
+        "e_des": "SRI LANKA                     ",
+        "e_pai": "LK ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PLR   ",
+        "e_des": "LIBERIA                       ",
+        "e_pai": "LR ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PLS   ",
+        "e_des": "LESOTHO                       ",
+        "e_pai": "LS ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PLT   ",
+        "e_des": "LITHUANIA                     ",
+        "e_pai": "LT ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PLU   ",
+        "e_des": "LUXEMBOURG                    ",
+        "e_pai": "LU ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PLV   ",
+        "e_des": "LATVIA                        ",
+        "e_pai": "LV ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PLY   ",
+        "e_des": "LIBYAN ARAB JAMAHIRIYA        ",
+        "e_pai": "LY ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PMA   ",
+        "e_des": "MOROCCO                       ",
+        "e_pai": "MA ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PMC   ",
+        "e_des": "MONACO                        ",
+        "e_pai": "MC ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PMD   ",
+        "e_des": "MOLDOVA, REPUBLIC OF          ",
+        "e_pai": "MD ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PME   ",
+        "e_des": "MONTENEGRO                    ",
+        "e_pai": "ME ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PMF   ",
+        "e_des": "SAINT MARTIN (FRENCH PART)    ",
+        "e_pai": "MF ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PMG   ",
+        "e_des": "MADAGASCAR                    ",
+        "e_pai": "MG ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PMH   ",
+        "e_des": "MARSHALL ISLANDS              ",
+        "e_pai": "MH ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PMK   ",
+        "e_des": "MACEDONIA, THE FORMER YUGOSLAV",
+        "e_pai": "MK ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PML   ",
+        "e_des": "MALI                          ",
+        "e_pai": "ML ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PMM   ",
+        "e_des": "MYANMAR                       ",
+        "e_pai": "MM ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PMN   ",
+        "e_des": "MONGOLIA                      ",
+        "e_pai": "MN ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PMO   ",
+        "e_des": "MACAO                         ",
+        "e_pai": "MO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PMP   ",
+        "e_des": "NORTHERN MARIANA ISLANDS      ",
+        "e_pai": "MP ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PMQ   ",
+        "e_des": "MARTINIQUE                    ",
+        "e_pai": "MQ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PMR   ",
+        "e_des": "MAURITANIA                    ",
+        "e_pai": "MR ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PMS   ",
+        "e_des": "MONTSERRAT                    ",
+        "e_pai": "MS ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PMT   ",
+        "e_des": "MALTA                         ",
+        "e_pai": "MT ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PMU   ",
+        "e_des": "MAURITIUS                     ",
+        "e_pai": "MU ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PMV   ",
+        "e_des": "MALDIVES                      ",
+        "e_pai": "MV ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PMW   ",
+        "e_des": "MALAWI                        ",
+        "e_pai": "MW ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PMY   ",
+        "e_des": "MALAYSIA                      ",
+        "e_pai": "MY ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PMZ   ",
+        "e_des": "MOZAMBIQUE                    ",
+        "e_pai": "MZ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PNA   ",
+        "e_des": "NAMIBIA                       ",
+        "e_pai": "NA ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PNC   ",
+        "e_des": "NEW CALEDONIA                 ",
+        "e_pai": "NC ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PNE   ",
+        "e_des": "NIGER                         ",
+        "e_pai": "NE ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PNF   ",
+        "e_des": "NORFOLK ISLAND                ",
+        "e_pai": "NF ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PNG   ",
+        "e_des": "NIGERIA                       ",
+        "e_pai": "NG ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PNI   ",
+        "e_des": "NICARAGUA                     ",
+        "e_pai": "NI ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PNL   ",
+        "e_des": "NETHERLANDS                   ",
+        "e_pai": "NL ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PNO   ",
+        "e_des": "NORWAY                        ",
+        "e_pai": "NO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PNP   ",
+        "e_des": "NEPAL                         ",
+        "e_pai": "NP ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PNR   ",
+        "e_des": "NAURU                         ",
+        "e_pai": "NR ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PNU   ",
+        "e_des": "NIUE                          ",
+        "e_pai": "NU ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PNZ   ",
+        "e_des": "NEW ZEALAND                   ",
+        "e_pai": "NZ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "POM   ",
+        "e_des": "OMAN                          ",
+        "e_pai": "OM ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PPA   ",
+        "e_des": "PANAMA                        ",
+        "e_pai": "PA ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PPE   ",
+        "e_des": "PERU                          ",
+        "e_pai": "PE ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PPF   ",
+        "e_des": "FRENCH POLYNESIA              ",
+        "e_pai": "PF ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PPG   ",
+        "e_des": "PAPUA NEW GUINEA              ",
+        "e_pai": "PG ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PPH   ",
+        "e_des": "PHILIPPINES                   ",
+        "e_pai": "PH ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PPK   ",
+        "e_des": "PAKISTAN                      ",
+        "e_pai": "PK ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PPL   ",
+        "e_des": "POLAND                        ",
+        "e_pai": "PL ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PPM   ",
+        "e_des": "SAINT PIERRE AND MIQUELON     ",
+        "e_pai": "PM ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PPN   ",
+        "e_des": "PITCAIRN                      ",
+        "e_pai": "PN ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PPR   ",
+        "e_des": "PUERTO RICO                   ",
+        "e_pai": "PR ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PPS   ",
+        "e_des": "PALESTINIAN TERRITORY, OCCUPIE",
+        "e_pai": "PS ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PPT   ",
+        "e_des": "PORTUGAL                      ",
+        "e_pai": "PT ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PPW   ",
+        "e_des": "PALAU                         ",
+        "e_pai": "PW ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PPY   ",
+        "e_des": "PARAGUAY                      ",
+        "e_pai": "PY ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PQA   ",
+        "e_des": "QATAR                         ",
+        "e_pai": "QA ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PRE   ",
+        "e_des": "REUNION                       ",
+        "e_pai": "RE ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PRO   ",
+        "e_des": "ROMANIA                       ",
+        "e_pai": "RO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PRS   ",
+        "e_des": "SERBIA                        ",
+        "e_pai": "RS ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PRU   ",
+        "e_des": "RUSSIAN FEDERATION            ",
+        "e_pai": "RU ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PRW   ",
+        "e_des": "RWANDA                        ",
+        "e_pai": "RW ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PSA   ",
+        "e_des": "SAUDI ARABIA                  ",
+        "e_pai": "SA ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PSB   ",
+        "e_des": "SOLOMON ISLANDS               ",
+        "e_pai": "SB ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PSC   ",
+        "e_des": "SEYCHELLES                    ",
+        "e_pai": "SC ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PSD   ",
+        "e_des": "SUDAN                         ",
+        "e_pai": "SD ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PSE   ",
+        "e_des": "SWEDEN                        ",
+        "e_pai": "SE ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PSG   ",
+        "e_des": "SINGAPORE                     ",
+        "e_pai": "SG ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PSH   ",
+        "e_des": "SAINT HELENA, ASCENSION AND TR",
+        "e_pai": "SH ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PSI   ",
+        "e_des": "SLOVENIA                      ",
+        "e_pai": "SI ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PSJ   ",
+        "e_des": "SVALBARD AND JAN MAYEN        ",
+        "e_pai": "SJ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PSK   ",
+        "e_des": "SLOVAKIA                      ",
+        "e_pai": "SK ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PSL   ",
+        "e_des": "SIERRA LEONE                  ",
+        "e_pai": "SL ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PSM   ",
+        "e_des": "SAN MARINO                    ",
+        "e_pai": "SM ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PSN   ",
+        "e_des": "SENEGAL                       ",
+        "e_pai": "SN ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PSO   ",
+        "e_des": "SOMALIA                       ",
+        "e_pai": "SO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PSR   ",
+        "e_des": "SURINAME                      ",
+        "e_pai": "SR ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PST   ",
+        "e_des": "SAO TOME AND PRINCIPE         ",
+        "e_pai": "ST ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PSV   ",
+        "e_des": "EL SALVADOR                   ",
+        "e_pai": "SV ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PSX   ",
+        "e_des": "SINT MAARTEN (DUTCH PART)     ",
+        "e_pai": "SX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PSY   ",
+        "e_des": "SYRIAN ARAB REPUBLIC          ",
+        "e_pai": "SY ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PSZ   ",
+        "e_des": "SWAZILAND                     ",
+        "e_pai": "SZ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PTC   ",
+        "e_des": "TURKS AND CAICOS ISLANDS      ",
+        "e_pai": "TC ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PTD   ",
+        "e_des": "CHAD                          ",
+        "e_pai": "TD ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PTF   ",
+        "e_des": "FRENCH SOUTHERN TERRITORIES   ",
+        "e_pai": "TF ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PTG   ",
+        "e_des": "TOGO                          ",
+        "e_pai": "TG ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PTH   ",
+        "e_des": "THAILAND                      ",
+        "e_pai": "TH ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PTJ   ",
+        "e_des": "TAJIKISTAN                    ",
+        "e_pai": "TJ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PTK   ",
+        "e_des": "TOKELAU                       ",
+        "e_pai": "TK ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PTL   ",
+        "e_des": "TIMOR-LESTE                   ",
+        "e_pai": "TL ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PTM   ",
+        "e_des": "TURKMENISTAN                  ",
+        "e_pai": "TM ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PTN   ",
+        "e_des": "TUNISIA                       ",
+        "e_pai": "TN ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PTO   ",
+        "e_des": "TONGA                         ",
+        "e_pai": "TO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PTR   ",
+        "e_des": "TURKEY                        ",
+        "e_pai": "TR ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PTT   ",
+        "e_des": "TRINIDAD AND TOBAGO           ",
+        "e_pai": "TT ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PTV   ",
+        "e_des": "TUVALU                        ",
+        "e_pai": "TV ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PTW   ",
+        "e_des": "TAIWAN, PROVINCE OF CHINA     ",
+        "e_pai": "TW ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PTZ   ",
+        "e_des": "TANZANIA, UNITED REPUBLIC OF  ",
+        "e_pai": "TZ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PUA   ",
+        "e_des": "UKRAINE                       ",
+        "e_pai": "UA ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PUG   ",
+        "e_des": "UGANDA                        ",
+        "e_pai": "UG ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PUM   ",
+        "e_des": "UNITED STATES MINOR OUTLYING I",
+        "e_pai": "UM ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PUY   ",
+        "e_des": "URUGUAY                       ",
+        "e_pai": "UY ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PUZ   ",
+        "e_des": "UZBEKISTAN                    ",
+        "e_pai": "UZ ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PVA   ",
+        "e_des": "HOLY SEE (VATICAN CITY STATE) ",
+        "e_pai": "VA ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PVC   ",
+        "e_des": "SAINT VINCENT AND THE GRENADIN",
+        "e_pai": "VC ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PVG   ",
+        "e_des": "VIRGIN ISLANDS, BRITISH       ",
+        "e_pai": "VG ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PVI   ",
+        "e_des": "VIRGIN ISLANDS, U.S.          ",
+        "e_pai": "VI ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PVN   ",
+        "e_des": "VIET NAM                      ",
+        "e_pai": "VN ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PVU   ",
+        "e_des": "VANUATU                       ",
+        "e_pai": "VU ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PWF   ",
+        "e_des": "WALLIS AND FUTUNA             ",
+        "e_pai": "WF ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PWS   ",
+        "e_des": "SAMOA                         ",
+        "e_pai": "WS ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PYE   ",
+        "e_des": "YEMEN                         ",
+        "e_pai": "YE ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PYT   ",
+        "e_des": "MAYOTTE                       ",
+        "e_pai": "YT ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PZA   ",
+        "e_des": "SOUTH AFRICA                  ",
+        "e_pai": "ZA ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PZM   ",
+        "e_des": "ZAMBIA                        ",
+        "e_pai": "ZM ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PZW   ",
+        "e_des": "ZIMBABWE                      ",
+        "e_pai": "ZW ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PVE   ",
+        "e_des": "VENEZUELA                     ",
+        "e_pai": "VE ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PCA   ",
+        "e_des": "CANADA                        ",
+        "e_pai": "CA ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PDO   ",
+        "e_des": "DOMINICAN REPUBLIC            ",
+        "e_pai": "DO ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PMX   ",
+        "e_des": "MEXICO                        ",
+        "e_pai": "MX ",
+        "e_idioma": "   "
+    },
+    {
+        "e_cod": "PUS   ",
+        "e_des": "UNITED STATES                 ",
+        "e_pai": "US ",
+        "e_idioma": "   "
+    }
+]

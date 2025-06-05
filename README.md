@@ -1,36 +1,115 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ItineraAI
 
-## Getting Started
+ItineraAI is a full-stack application that combines Next.js frontend with a Python FastAPI backend to provide intelligent itinerary planning and data analysis capabilities.
 
-First, run the development server:
+## Features
+
+- Modern React-based frontend with Next.js
+- FastAPI backend for efficient data processing
+- Interactive data visualization with Recharts
+- CSV data processing capabilities
+- Responsive UI with Chakra UI
+- TypeScript support for better development experience
+
+## Tech Stack
+
+### Frontend
+
+- Next.js 15.3.3
+- React 19
+- TypeScript
+- Chakra UI
+- Recharts for data visualization
+- Framer Motion for animations
+- TailwindCSS for styling
+
+### Backend
+
+- FastAPI
+- Python 3.x
+- Uvicorn
+- Pydantic for data validation
+- HTTPX for async HTTP requests
+
+## Prerequisites
+
+- Node.js (v18 or higher)
+- Python 3.x
+- Git
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/abrahamlicona/ItineraAI.git
+cd ItineraAI
+```
+
+2. Install frontend dependencies:
+
+```bash
+npm install
+```
+
+3. Set up Python virtual environment and install backend dependencies:
+
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
+pip install -r requirements.txt
+```
+
+4. Create a `.env` file in the root directory with necessary environment variables:
+
+```env
+# Add your environment variables here
+```
+
+## Development
+
+1. Start the frontend development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Start the backend server:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+uvicorn api:app --reload
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+The frontend will be available at `http://localhost:3000` and the backend at `http://localhost:8000`.
 
-## Learn More
+## Building for Production
 
-To learn more about Next.js, take a look at the following resources:
+1. Build the frontend:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+npm run build
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+2. Start the production server:
 
-## Deploy on Vercel
+```bash
+npm start
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Contributing
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact
+
+Abraham Licona - [@abrahamlicona](https://github.com/abrahamlicona)
+
+Project Link: [https://github.com/abrahamlicona/ItineraAI](https://github.com/abrahamlicona/ItineraAI)

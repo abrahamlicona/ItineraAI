@@ -1,0 +1,128 @@
+[
+    {
+        "ID_Segmento_Comp": "0",
+        "Segmento_Comp_Cve": "|",
+        "SEGMENTO ALTERNO": "SIN DEFINIR",
+        "Segmento_Comp_orden": "9999.999"
+    },
+    {
+        "ID_Segmento_Comp": "1",
+        "Segmento_Comp_Cve": "COMCOR",
+        "SEGMENTO ALTERNO": "COMPLEMENTARIES CORTESIAS     ",
+        "Segmento_Comp_orden": "9999.999"
+    },
+    {
+        "ID_Segmento_Comp": "2",
+        "Segmento_Comp_Cve": "COMFAM",
+        "SEGMENTO ALTERNO": "COMPLEMENTARIES TRIPS         ",
+        "Segmento_Comp_orden": "9999.999"
+    },
+    {
+        "ID_Segmento_Comp": "3",
+        "Segmento_Comp_Cve": "COMSIT",
+        "SEGMENTO ALTERNO": "COMPLEMENTARIES INSPECTIONS   ",
+        "Segmento_Comp_orden": "9999.999"
+    },
+    {
+        "ID_Segmento_Comp": "4",
+        "Segmento_Comp_Cve": "COMUSO",
+        "SEGMENTO ALTERNO": "COMPLEMENTARIES USO CASA      ",
+        "Segmento_Comp_orden": "9999.999"
+    },
+    {
+        "ID_Segmento_Comp": "5",
+        "Segmento_Comp_Cve": "ECOODO",
+        "SEGMENTO ALTERNO": "ECOMMERCE OTA DOMESTIC        ",
+        "Segmento_Comp_orden": "9999.999"
+    },
+    {
+        "ID_Segmento_Comp": "6",
+        "Segmento_Comp_Cve": "ECOOIN",
+        "SEGMENTO ALTERNO": "ECOMMERCE OTA INTERNATIONALS  ",
+        "Segmento_Comp_orden": "9999.999"
+    },
+    {
+        "ID_Segmento_Comp": "7",
+        "Segmento_Comp_Cve": "ECOSOC",
+        "SEGMENTO ALTERNO": "ECOMMERCE SOCIALS CLUB        ",
+        "Segmento_Comp_orden": "9999.999"
+    },
+    {
+        "ID_Segmento_Comp": "8",
+        "Segmento_Comp_Cve": "ECOWEB",
+        "SEGMENTO ALTERNO": "ECOMMERCE WEBSITE             ",
+        "Segmento_Comp_orden": "9999.999"
+    },
+    {
+        "ID_Segmento_Comp": "9",
+        "Segmento_Comp_Cve": "GROFAI",
+        "SEGMENTO ALTERNO": "GRO. & CONV. CONGRESSES       ",
+        "Segmento_Comp_orden": "9999.999"
+    },
+    {
+        "ID_Segmento_Comp": "10",
+        "Segmento_Comp_Cve": "GROINC",
+        "SEGMENTO ALTERNO": "GRO. & CONV. INCENTIVE SOC.   ",
+        "Segmento_Comp_orden": "9999.999"
+    },
+    {
+        "ID_Segmento_Comp": "11",
+        "Segmento_Comp_Cve": "GROLER",
+        "SEGMENTO ALTERNO": "GRO. & CONV. LEISURE RELIGIO  ",
+        "Segmento_Comp_orden": "9999.999"
+    },
+    {
+        "ID_Segmento_Comp": "12",
+        "Segmento_Comp_Cve": "GROMEE",
+        "SEGMENTO ALTERNO": "GRO. & CONV. MEETINGS         ",
+        "Segmento_Comp_orden": "9999.999"
+    },
+    {
+        "ID_Segmento_Comp": "13",
+        "Segmento_Comp_Cve": "INDBUS",
+        "SEGMENTO ALTERNO": "INDIVIDUAL BUSINESS/LOYALTY   ",
+        "Segmento_Comp_orden": "9999.999"
+    },
+    {
+        "ID_Segmento_Comp": "14",
+        "Segmento_Comp_Cve": "INDEPV",
+        "SEGMENTO ALTERNO": "INDIVIDUAL  EP/VAC. CLUB      ",
+        "Segmento_Comp_orden": "9999.999"
+    },
+    {
+        "ID_Segmento_Comp": "15",
+        "Segmento_Comp_Cve": "INDINC",
+        "SEGMENTO ALTERNO": "INDIVIDUAL INCENTIVE/SOCIALS  ",
+        "Segmento_Comp_orden": "9999.999"
+    },
+    {
+        "ID_Segmento_Comp": "16",
+        "Segmento_Comp_Cve": "INDLEP",
+        "SEGMENTO ALTERNO": "INDIVIDUAL LEISURE/PACKAGE    ",
+        "Segmento_Comp_orden": "9999.999"
+    },
+    {
+        "ID_Segmento_Comp": "17",
+        "Segmento_Comp_Cve": "TOUTOD",
+        "SEGMENTO ALTERNO": "TOUR OPERATORS DOMESTIC       ",
+        "Segmento_Comp_orden": "9999.999"
+    },
+    {
+        "ID_Segmento_Comp": "18",
+        "Segmento_Comp_Cve": "TOUTOI",
+        "SEGMENTO ALTERNO": "TOUR OPERATORS INTERNATIONALS ",
+        "Segmento_Comp_orden": "9999.999"
+    },
+    {
+        "ID_Segmento_Comp": "19",
+        "Segmento_Comp_Cve": "TOUTOR",
+        "SEGMENTO ALTERNO": "TOUR OPERATORS REGIONAL       ",
+        "Segmento_Comp_orden": "9999.999"
+    },
+    {
+        "ID_Segmento_Comp": "20",
+        "Segmento_Comp_Cve": "TOUTTS",
+        "SEGMENTO ALTERNO": "TOUR OPERATORS SERIES         ",
+        "Segmento_Comp_orden": "9999.999"
+    }
+]
