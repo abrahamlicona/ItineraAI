@@ -1,0 +1,33 @@
+[build-system]
+requires = [ "setuptools",]
+build-backend = "setuptools.build_meta"
+
+[project]
+requires-python = ">=3.9"
+name = "reservations_pipeline"
+readme = "README.md"
+dynamic = [ "version",]
+dependencies = [ "ipython>=8.10", "jupyterlab>=3.0", "notebook", "kedro~=0.19.13",]
+
+[project.scripts]
+reservations-pipeline = "reservations_pipeline.__main__:main"
+
+[tool.kedro]
+package_name = "reservations_pipeline"
+project_name = "reservations_pipeline"
+kedro_init_version = "0.19.13"
+tools = "['None']"
+example_pipeline = "False"
+source_dir = "src"
+
+[project.entry-points."kedro.hooks"]
+
+[tool.setuptools.dynamic.version]
+attr = "reservations_pipeline.__version__"
+
+[tool.setuptools.packages.find]
+where = [ "src",]
+namespaces = false
+
+[tool.kedro_telemetry]
+project_id = "49ee0a8f260f4d14978baae473c3d8a8"

@@ -1,0 +1,61 @@
+# 1) Entorno virtual / dependencias locales
+.venv/
+venv/
+ENV/
+env/
+__pypackages__/
+
+# 2) Archivos temporales y caches de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# 3) Carpeta .viz de Kedro (Kedro Viz)
+.viz/
+
+# 4) Logs, archivos de trabajo y resultados intermedios
+logs/
+*.log
+*.tmp
+*.bak
+
+# 5) Datos brutos / intermedios / resultados
+
+
+data/
+
+!data/
+
+# Mantener (no ignorar) la carpeta de modelos finales y su .pkl
+!data/06_models/
+!data/06_models/cluster_model.pkl
+
+# Mantener (no ignorar) la carpeta de reporting final y su CSV
+!data/08_reporting/
+!data/08_reporting/segment_profile.csv
+
+# Ignorar explícitamente los subdirectorios que no se versionan
+data/01_raw/
+data/02_intermediate/
+data/03_primary/
+data/04_feature/
+data/05_model_input/
+data/07_model_output/
+
+# 6) Carpeta local de Kedro 
+
+local/
+
+# 7) Entornos/IDE y metadatos de sistema operativo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 8) Archivos de dependencias o compilados 
+build/
+dist/
+*.egg-info
