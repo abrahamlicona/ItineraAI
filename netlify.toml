@@ -1,10 +1,12 @@
 [build]
-  command = "pip install -r requirements.txt && npm install && npm run build"
+  command = "pip install --upgrade pip && pip install -r requirements.txt && npm install && npm run build"
   publish = ".next"
 
 [build.environment]
   PYTHON_VERSION = "3.11"
   NODE_VERSION = "18"
+  PIP_NO_CACHE_DIR = "1"
+  PIP_DISABLE_PIP_VERSION_CHECK = "1"
 
 [[plugins]]
   package = "@netlify/plugin-nextjs"
