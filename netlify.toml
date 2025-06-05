@@ -12,9 +12,8 @@
   package = "@netlify/plugin-nextjs"
 
 [functions]
-  directory = "."
+  directory = "netlify/functions"
   node_bundler = "esbuild"
-  included_files = ["api/**/*"]
 
 [functions.excluded_files]
   external_node_modules = ["*.config.js", "*.config.ts", "next-env.d.ts", "postcss.config.js"]
