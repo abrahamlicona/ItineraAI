@@ -19,4 +19,11 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    Access-Control-Allow-Origin = "*" 
+    Access-Control-Allow-Origin = "*"
+
+[dev]
+  command = "python api.py"
+  port = 8000
+  targetPort = 8000
+  publish = ".next"
+  framework = "#custom" 
