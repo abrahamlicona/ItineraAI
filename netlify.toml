@@ -9,7 +9,9 @@
 [functions]
   directory = "netlify/functions"
   included_files = ["netlify/functions/**/*"]
-  excluded_files = ["*.config.js", "*.config.ts", "next-env.d.ts"]
+
+[functions.excluded_files]
+  patterns = ["*.config.js", "*.config.ts", "next-env.d.ts"]
 
 [[plugins]]
   package = "@netlify/plugin-nextjs"
