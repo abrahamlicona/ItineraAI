@@ -120,7 +120,7 @@ npm run dev
    - `LAMBDA_URL`
    - `PORT` → `10000`
 
-> El backend estará disponible en una URL como `https://itineraai-backend.onrender.com`
+> El backend estará disponible en una URL como `[https://itineraai-backend.onrender.com](https://itineraai.onrender.com)`
 
 ---
 
