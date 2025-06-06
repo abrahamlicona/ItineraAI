@@ -188,11 +188,9 @@ El uso no autorizado podrá derivar en **acciones legales** por parte del equipo
 
 ## Autores
 
-**Abraham Licona**  
-[github.com/abrahamlicona](https://github.com/abrahamlicona)
+**Abraham Licona** [github.com/abrahamlicona](https://github.com/abrahamlicona)
 
-**Sabrina Carselle**
-[github.com/sabrinacarselle](https://github.com/sabrinacarselle)
+**Sabrina Carselle** [github.com/sabrinacarselle](https://github.com/sabrinacarselle)
 
 **Juan Pablo Sada**
 
