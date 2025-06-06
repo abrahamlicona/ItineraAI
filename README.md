@@ -131,7 +131,7 @@ npm run dev
   1. Crea otro Web Service para el frontend.
   2. Usa `npm run build && npm start` como comando de inicio.
   3. Variables de entorno:
-     - `NEXT_PUBLIC_API_URL=https://itineraai-backend.onrender.com`
+     - `NEXT_PUBLIC_API_URL=https://itineraai.onrender.com`
 
 ---
 
@@ -154,7 +154,7 @@ Puedes probar el frontend directamente en:
 **https://itinerai-b7e1.onrender.com**
 
 Y el backend en:  
-**https://itineraai-backend.onrender.com/api/process**
+**https://itineraai.onrender.com**
 
 Usa `curl` si deseas probar manualmente:
 
