@@ -63,7 +63,7 @@ Crea un archivo `.env.local` en la raíz del proyecto con el siguiente contenido
 
 ```env
 # Para el frontend
-NEXT_PUBLIC_API_URL=https://itineraai-backend.onrender.com
+NEXT_PUBLIC_API_URL=https://itineraai.onrender.com
 
 # Para el backend (usado dentro de api.py)
 DEEPSEEK_API_KEY=sk-xxxx
