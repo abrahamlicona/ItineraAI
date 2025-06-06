@@ -159,7 +159,7 @@ Y el backend en:
 Usa `curl` si deseas probar manualmente:
 
 ```bash
-curl --ssl-no-revoke -i -X POST "https://vfr76hdfy6orj34fdgcpgfnyfa0ibrbo.lambda-url.us-east-2.on.aws/" -H "Content-Type: application/json" -d "{\"h_num_per\":2,\"h_num_adu\":2,\"h_num_men\":0,\"h_num_noc\":3,\"h_tot_hab\":1,\"h_tfa_total\":1200,\"ID_Tipo_Habitacion\":25,\"ID_canal\":10,\"ID_Pais_Origen\":157,\"ID_Segmento_Comp\":14,\"ID_Agencia\":112}"
+curl --ssl-no-revoke -i -X POST "https://xxx.lambda-url.us-east-2.on.aws/" -H "Content-Type: application/json" -d "{\"h_num_per\":2,\"h_num_adu\":2,\"h_num_men\":0,\"h_num_noc\":3,\"h_tot_hab\":1,\"h_tfa_total\":1200,\"ID_Tipo_Habitacion\":25,\"ID_canal\":10,\"ID_Pais_Origen\":157,\"ID_Segmento_Comp\":14,\"ID_Agencia\":112}"
 ```
 
 ---
