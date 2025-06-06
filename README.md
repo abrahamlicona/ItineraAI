@@ -199,4 +199,3 @@ El uso no autorizado podrá derivar en **acciones legales** por parte del equipo
 **Juan Pablo Ramirez**
 
 
-Asistente IA para reservas hoteleras
