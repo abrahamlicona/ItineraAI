@@ -1,0 +1,4 @@
+<script>start("/Users/datageni/Documents/proyecto/models/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("Equipo_5_Limpieza_Final_Datos_TCA.ipynb","Equipo_5_Limpieza_Final_Datos_TCA.ipynb",0,485106,"474 kB",1749232323,"6/6/25, 11:52:03 AM");</script>
+<script>addRow("TabNet_100,000.ipynb","TabNet_100,000.ipynb",0,585359,"572 kB",1749232316,"6/6/25, 11:51:56 AM");</script>
